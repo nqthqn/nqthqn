@@ -40,6 +40,7 @@
 5. Figma
 
 #### Peculiarities
+0. Highly communicative
 1. International Traveler: 35+ countries
 2. Bilingual — English/Spanish
 3. Retired Professional Juggler (Central America Tour 2012)
