@@ -16,6 +16,7 @@
 6. Business Model Canvas
 
 #### Languages
+0. Javascript
 1. Elm
 2. Python 3
 3. GoLang
@@ -24,12 +25,14 @@
 6. MySQL/PostgreSQL/MongoDB
 
 #### Libraries
+0. Flask
 1. Bulma/Bootstrap/Chakra UI/Ant Design
 2. lodash
 3. elm-charts
 4. Django
 
 #### Software
+0. Firefox
 1. VSCode
 2. Obsidian
 3. iTerm2
