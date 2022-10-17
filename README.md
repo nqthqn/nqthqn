@@ -1,8 +1,6 @@
 # 🌊 Hi, I'm Nate.
 
-> Autodidact generalist designer/developer looking for unique opportunities
-
-## 10+ years experience is hard to capture. I'll update this as more comes to mind.
+I'm a designer/developer with 10+ years experience in web engineering
 
 📜 [résumé](https://nqthqn.com/resume/)
 
