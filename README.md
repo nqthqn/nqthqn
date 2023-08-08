@@ -1,44 +1,10 @@
-# 🌊 Hi, I'm Nate.
+Hi, I'm Nate — a web engineer with 10+ years end-to-end expertise from ideation to implementation. History of my work lives in my [résumé](https://nqthqn.com/resume/). 
 
-I'm a designer/developer with 10+ years experience in web engineering
+I have experience with languages like TypeScript/JavaScript, Python, Elm, Go, SQL and, even a bit of Java, Scala and, Kotlin. I value co-creative development and "working with the garage door open." My knowledge of HTML and CSS stems from building accesible and responsive web applications and design systems. I've worked in numerous linraries/frameworks ranging from and not limited to Angular, React, TEA, Bulma, Bootstrap, Ant Design, Django, Flask.
 
-📜 [résumé](https://nqthqn.com/resume/)
+I love knowledge gardens. I implement my own using Obsidian.
 
-#### Generalities
-0. Frontend Development
-1. Co-creative Design
-2. Esoteric Problem Solving
-3. Project Management
-4. Hacking
-5. Wireframing
-6. Business Model Canvas
+Some peculiariaties —
 
-#### Languages
-0. Javascript
-1. Elm
-2. Python 3
-3. GoLang
-4. Typescript
-5. HTML/CSS
-6. MySQL/PostgreSQL/MongoDB
-
-#### Libraries
-0. Flask
-1. Bulma/Bootstrap/Chakra UI/Ant Design
-2. lodash
-3. elm-charts
-4. Django
-
-#### Software
-0. Firefox
-1. VSCode
-2. Obsidian
-3. iTerm2
-4. Adobe Suite
-5. Figma
-
-#### Peculiarities
-0. Highly communicative
-1. International Traveler: 35+ countries
-2. Bilingual — English/Spanish
-3. Retired Professional Juggler (Central America Tour 2012)
+1. I've lived in/traveled through 35 different countries. I speak Spanish.
+2. I used to juggle professionally — birthdays, carnivals, Bar Mitzvahs, school assemblies.
